@@ -1,14 +1,22 @@
 <h1 align = center> Python learning </h1>
 
+![Alt text](https://img.shields.io/badge/python-v3.8-g)
+
+## Installing python 
+
+### Download the latest version
+
+[Python installation link](https://www.python.org/)
+
 ## These programs will help you learn basic python
 
 ### hello
 
-This program prints "Hello python world!!"
+#### This program prints "Hello python world!!"
 
 ### learning
 
-this program has most of the python basics
+#### This program has most of the python basics
 
     * print statements
     * getting characters
@@ -41,4 +49,4 @@ this program has most of the python basics
 
 ### sumof2nums
 
-This prgrams add two numbers
+#### This prgrams add two numbers
