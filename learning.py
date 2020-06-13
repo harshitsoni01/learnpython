@@ -140,8 +140,8 @@ def my_function():#defining a function
 	
 my_function()#calling a function
 
-username = "har"
-greeting = "shit"
+username = "name"
+greeting = "greeting"
 def my_function_with_args(username, greeting):
     print("Hello, %s , From My Function!, I wish you %s"%(username, greeting))
 
@@ -161,7 +161,7 @@ print(sum_two_numbers(a, b))
 class Myclass:
 	variable = "shit"
 	
-	def function(self):
+	def function(self):#use self with fucntions inside class to not confuse it some other function
 		print("This mesage is inside the class.")
 
 objectx = Myclass()#Now the variable "objectx" holds an object of the class "MyClass" that contains the variable and the function defined within the class called "MyClass".
